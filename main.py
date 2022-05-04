@@ -20,7 +20,7 @@ timee = 0
 expl_sound = pygame.mixer.Sound('zvuk-udara4.wav')
 shoot_sound = pygame.mixer.Sound('prostoy-vyistrel.wav')
 game_over_sound = pygame.mixer.Sound('MS_Realization.wav')
-pygame.mixer.music.load('love_song.wav')
+pygame.mixer.music.load('love_song.mp3')
 pygame.mixer.music.set_volume(0.4)
 won_sound = pygame.mixer.Sound('b24eb5669749169.mp3')
 you_won = pygame.mixer.Sound('806ca1f3d6e6270.mp3')
